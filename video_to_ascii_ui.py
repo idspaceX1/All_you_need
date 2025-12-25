@@ -8,7 +8,7 @@ import numpy as np
 
 
 BANNER = r"""
-BLACKCAT
+iiiiioiiooooiiooiii
 """
 
 README = """
